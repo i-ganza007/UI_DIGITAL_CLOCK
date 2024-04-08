@@ -1,1 +1,2 @@
 # UI_DIGITAL_CLOCK
+The project is a simple web application that displays the current time in hours, minutes, seconds, and period (AM/PM) using HTML, CSS, and JavaScript. It updates the time dynamically every second without requiring the page to be reloaded. The application consists of an HTML file defining the structure of the page, a CSS file for styling the elements, and a JavaScript file for updating the time display. It utilizes jQuery for DOM manipulation. The user can clone the repository and open the index.html file in a web browser to view the current time.
